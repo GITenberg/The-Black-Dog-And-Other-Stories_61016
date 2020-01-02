@@ -1,5 +1,8 @@
 _repo: The-Black-Dog-And-Other-Stories_61016
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61016-h/images/cover.jpg
 creator:
   author:
     agent_name: Coppard, A. E. (Alfred Edgar)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34960
     wikipedia: http://en.wikipedia.org/wiki/A._E._Coppard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61016#The-Black-Dog-And-Other-Stories
 gutenberg_issued: '2019-12-25'
 gutenberg_type: Text
 identifiers:
